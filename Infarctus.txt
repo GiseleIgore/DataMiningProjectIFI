@@ -1,0 +1,449 @@
+NUMERO,INFARCT,CO,TABAC,AGE,POIDS,TAILLE,IMC,ATCD,HTA
+1,temoin,jamais,non,47,48,173,16.03795624,non,non
+2,temoin,jamais,non,17,49,162,16.35931015,non,non
+3,temoin,jamais,non,35,53,163,19.94805908,non,non
+4,temoin,jamais,non,82,78,157,31.6442852,non,non
+5,temoin,jamais,non,50,52,172,17.57706833,non,non
+6,temoin,jamais,non,31,47,184,13.88232517,non,non
+7,temoin,jamais,non,60,60,169,21.00766754,non,non
+8,temoin,jamais,non,30,75,174,24.77209663,non,non
+9,temoin,jamais,non,44,68,164,25.28256989,non,non
+10,temoin,jamais,non,38,64,167,16.35931015,non,non
+11,temoin,jamais,non,33,59,173,19.71332169,non,non
+12,temoin,jamais,non,62,55,146,25.80221367,non,non
+13,temoin,jamais,non,39,47,163,17.68978882,non,non
+14,temoin,jamais,non,77,53,171,18.1252346,non,non
+15,temoin,jamais,non,68,61,170,21.10726738,non,non
+16,temoin,jamais,non,21,57,168,20.19557762,non,non
+17,temoin,jamais,non,50,94,174,31.04769516,non,non
+18,temoin,jamais,non,46,67,158,26.83864784,non,non
+19,temoin,jamais,non,55,34,156,13.97107124,non,non
+20,temoin,jamais,non,58,81,159,32.03987122,non,non
+21,temoin,jamais,non,50,51,164,18.96192741,non,non
+22,temoin,jamais,non,17,43,161,16.58886528,non,non
+23,temoin,jamais,non,25,70,166,25.40281677,non,non
+24,temoin,jamais,non,20,83,150,36.88888931,non,non
+25,temoin,jamais,non,59,51,167,18.2867794,non,non
+26,temoin,jamais,non,98,61,170,21.10726738,non,non
+27,temoin,jamais,non,64,62,163,23.33546638,non,non
+28,temoin,jamais,non,46,53,173,17.7085762,non,non
+29,temoin,jamais,non,40,87,153,16.35931015,non,non
+30,temoin,jamais,non,85,79,157,32.04998016,non,non
+31,temoin,jamais,non,51,61,173,20.38156891,non,non
+32,temoin,jamais,non,37,102,165,37.46556473,non,non
+33,temoin,jamais,non,51,51,169,17.85651779,non,non
+34,temoin,jamais,non,55,53,153,22.64086533,non,non
+35,temoin,jamais,non,46,51,177,16.27884674,non,non
+36,temoin,jamais,non,38,59,167,21.15529442,non,non
+37,temoin,jamais,non,72,43,152,18.61149597,non,non
+38,temoin,jamais,non,67,89,165,16.35931015,non,non
+39,temoin,jamais,non,22,63,168,22.3214283,non,non
+40,temoin,jamais,non,57,60,172,20.28123283,non,non
+41,temoin,jamais,non,27,42,159,16.61326599,non,non
+42,temoin,jamais,non,75,65,177,20.74755096,non,non
+43,temoin,jamais,non,56,65,172,21.97133636,non,non
+44,temoin,jamais,non,37,91,138,47.78408051,non,non
+45,temoin,jamais,non,34,56,178,17.67453575,non,non
+46,temoin,jamais,non,31,78,166,28.30599594,non,non
+47,temoin,jamais,non,60,61,167,21.87242317,non,non
+48,temoin,jamais,non,32,66,169,23.10843468,non,non
+49,temoin,jamais,non,41,89,165,16.35931015,non,non
+50,temoin,jamais,non,75,79,154,33.31084442,non,non
+51,temoin,jamais,non,69,62,158,24.83576393,non,non
+52,temoin,jamais,non,39,64,166,23.22543144,non,non
+53,temoin,jamais,non,43,49,180,15.12345695,non,non
+54,temoin,jamais,non,42,44,171,15.04736519,non,non
+55,temoin,jamais,non,33,53,178,16.72768593,non,non
+56,temoin,jamais,non,48,80,154,33.73250198,non,non
+57,temoin,jamais,non,56,81,170,28.02768135,non,non
+58,temoin,jamais,non,57,46,157,18.66201401,non,non
+59,temoin,jamais,non,73,46,157,18.66201401,non,non
+60,temoin,jamais,non,41,116,169,40.6148262,non,non
+61,temoin,jamais,non,36,48,159,18.98659134,non,non
+62,temoin,jamais,non,59,46,166,16.69327927,non,oui
+63,temoin,jamais,non,48,69,159,27.29322433,non,oui
+64,temoin,jamais,non,33,41,175,13.38775539,non,oui
+65,temoin,jamais,non,57,79,156,32.46219635,non,oui
+66,temoin,jamais,non,71,71,172,23.99945831,non,oui
+67,temoin,jamais,non,100,70,154,29.51593781,non,oui
+68,temoin,jamais,non,61,52,176,16.78718948,non,oui
+69,temoin,jamais,non,66,47,178,14.83398533,non,oui
+70,temoin,jamais,non,45,60,170,20.76124573,non,oui
+71,temoin,jamais,non,53,65,152,16.35931015,non,oui
+72,temoin,jamais,non,87,67,164,24.9107666,non,oui
+73,temoin,jamais,non,71,45,162,17.1467762,non,oui
+74,temoin,jamais,non,51,104,177,33.19607925,non,oui
+75,temoin,jamais,non,51,101,166,36.65263367,non,oui
+76,temoin,jamais,non,37,65,164,24.16716194,non,oui
+77,temoin,jamais,non,41,54,175,17.63265228,non,oui
+78,temoin,jamais,non,75,69,163,25.97011566,non,oui
+79,temoin,jamais,non,45,54,174,17.83590889,non,oui
+80,temoin,jamais,non,29,77,164,28.62879181,non,oui
+81,temoin,jamais,non,33,93,166,33.7494545,non,oui
+82,temoin,jamais,non,45,88,174,29.06592751,non,oui
+83,temoin,jamais,non,67,41,166,14.87879181,non,oui
+84,temoin,jamais,non,69,49,162,18.67093468,non,oui
+85,temoin,jamais,non,38,60,169,21.00766754,non,oui
+86,temoin,jamais,non,23,83,159,32.83097839,non,oui
+87,temoin,jamais,non,52,61,158,24.43518639,non,oui
+88,temoin,jamais,non,71,65,157,26.37023735,non,oui
+89,temoin,jamais,non,35,65,170,22.49135017,non,oui
+90,temoin,jamais,non,17,77,163,28.98114395,non,oui
+91,temoin,jamais,non,55,57,177,18.19400597,non,oui
+92,temoin,jamais,non,56,46,167,16.49395752,non,oui
+93,temoin,jamais,non,42,39,162,14.86053944,non,oui
+94,temoin,jamais,non,60,45,167,16.13539314,non,oui
+95,temoin,jamais,non,48,55,180,16.97530937,non,oui
+96,temoin,jamais,non,71,67,166,24.31412315,non,oui
+97,temoin,jamais,non,85,96,153,41.00986862,non,oui
+98,temoin,jamais,non,67,98,165,35.99632645,non,oui
+99,temoin,jamais,non,70,104,162,39.62810516,non,oui
+100,temoin,jamais,non,68,51,160,19.921875,non,oui
+101,temoin,jamais,non,68,61,163,22.95908737,non,oui
+102,temoin,jamais,non,68,79,154,33.31084442,non,oui
+103,temoin,jamais,non,49,89,161,34.33509445,non,oui
+104,temoin,jamais,non,73,88,174,29.06592751,non,oui
+105,temoin,jamais,non,61,70,165,25.71166229,non,oui
+106,temoin,jamais,non,61,71,156,29.1748848,non,oui
+107,temoin,jamais,non,43,69,152,29.86495781,non,oui
+108,temoin,jamais,non,76,74,169,25.90945625,non,oui
+109,temoin,jamais,non,36,86,157,34.88985443,non,oui
+110,temoin,jamais,non,90,88,175,28.73469353,non,oui
+111,temoin,jamais,non,72,58,161,22.37567902,non,oui
+112,temoin,jamais,non,24,59,157,23.93606186,non,oui
+113,temoin,jamais,non,89,70,144,33.75771713,non,oui
+114,temoin,jamais,non,53,82,159,32.4354248,oui,oui
+115,temoin,jamais,non,51,89,173,29.73704529,oui,oui
+116,temoin,jamais,non,46,84,169,29.41073418,oui,oui
+117,temoin,jamais,non,47,54,144,26.04166603,oui,oui
+118,temoin,jamais,non,38,91,169,31.86162949,oui,oui
+119,temoin,jamais,non,49,101,170,34.94809723,oui,oui
+120,temoin,jamais,non,53,72,157,29.21010971,oui,oui
+121,temoin,jamais,non,31,48,157,19.47340584,oui,oui
+122,temoin,jamais,non,30,62,170,21.45328712,oui,oui
+123,temoin,jamais,non,50,45,158,18.02595711,oui,oui
+124,temoin,jamais,non,28,74,175,24.16326523,oui,oui
+125,temoin,jamais,non,84,48,162,18.2898941,oui,oui
+126,temoin,jamais,non,50,63,163,23.7118454,oui,oui
+213,temoin,oui,non,52,41,173,13.6990881,non,non
+214,temoin,oui,non,26,68,169,23.80869102,non,non
+215,temoin,oui,non,38,46,161,17.74622917,non,non
+216,temoin,oui,non,58,81,151,35.52475739,non,non
+217,temoin,oui,non,47,42,167,15.05970097,non,non
+218,temoin,oui,non,19,83,174,27.41445351,non,non
+219,temoin,oui,non,16,46,160,17.96875,non,non
+220,temoin,oui,non,44,78,158,31.24499321,non,non
+221,temoin,oui,non,26,61,146,28.61700058,non,non
+222,temoin,oui,non,41,40,168,14.17233562,non,non
+223,temoin,oui,non,35,45,180,13.88888931,non,non
+224,temoin,oui,non,40,80,158,32.04614639,non,non
+225,temoin,oui,non,45,37,151,16.22735786,non,non
+226,temoin,oui,non,46,65,165,23.87511444,non,non
+227,temoin,oui,non,38,48,162,18.2898941,non,non
+228,temoin,oui,non,47,48,162,18.2898941,non,non
+229,temoin,oui,non,20,64,173,21.38394165,non,non
+230,temoin,oui,non,46,41,172,13.85884285,non,non
+231,temoin,oui,non,40,66,175,21.55101967,non,non
+232,temoin,oui,non,50,56,167,20.07960129,non,non
+233,temoin,oui,non,25,82,153,35.02926254,non,non
+234,temoin,oui,non,30,43,156,17.66929626,non,non
+235,temoin,oui,non,26,41,180,12.65432072,non,non
+236,temoin,oui,non,42,36,178,11.36220169,non,non
+237,temoin,oui,non,54,71,172,23.99945831,non,non
+238,temoin,oui,non,37,62,160,24.21875,non,non
+239,temoin,oui,non,46,78,158,16.35931015,non,non
+240,temoin,oui,non,21,50,177,15.95965385,non,non
+241,temoin,oui,non,33,58,159,22.94213104,non,non
+242,temoin,oui,non,35,43,163,16.18427467,non,non
+243,temoin,oui,non,23,33,151,14.47304916,non,non
+244,temoin,oui,non,54,85,184,25.10633278,non,non
+245,temoin,oui,non,25,47,170,16.26297569,non,non
+246,temoin,oui,non,33,47,152,20.34279823,non,non
+247,temoin,oui,non,53,59,175,19.26530647,non,non
+248,temoin,oui,non,57,81,163,30.4866581,non,non
+249,temoin,oui,non,49,45,158,18.02595711,non,non
+250,temoin,oui,non,30,54,169,18.90690041,non,non
+251,temoin,oui,non,18,58,173,19.37919807,non,non
+252,temoin,oui,non,30,50,143,24.45107269,non,non
+253,temoin,oui,non,18,59,167,21.15529442,non,non
+254,temoin,oui,non,61,88,152,38.08864212,non,oui
+255,temoin,oui,non,63,73,178,23.04001999,non,oui
+256,temoin,oui,non,56,87,162,33.15043259,non,oui
+257,temoin,oui,non,65,75,159,29.66654778,non,oui
+258,temoin,oui,non,48,52,166,18.87066269,non,oui
+259,temoin,oui,non,51,75,155,31.21748161,non,oui
+260,temoin,oui,non,74,50,159,19.77769852,non,oui
+261,temoin,oui,non,62,41,153,17.51463127,non,oui
+262,temoin,oui,non,42,65,170,22.49135017,oui,non
+263,temoin,oui,non,55,89,170,30.79584694,oui,non
+264,temoin,oui,non,68,88,170,30.44982719,oui,non
+265,temoin,oui,non,28,69,170,23.87543297,oui,non
+266,temoin,oui,non,23,57,170,19.72318268,oui,oui
+267,temoin,oui,non,59,63,181,19.23018265,oui,oui
+301,cas,jamais,non,45,69,153,29.47584343,non,non
+302,cas,jamais,non,68,65,170,22.49135017,non,non
+303,cas,jamais,non,61,66,164,24.53896523,non,non
+304,cas,jamais,non,49,51,167,18.2867794,non,non
+305,cas,jamais,non,71,79,171,27.01685905,non,non
+306,cas,jamais,non,61,64,161,24.69040489,non,non
+307,cas,jamais,non,44,41,152,17.74584579,non,non
+308,cas,jamais,non,89,93,156,38.21498871,non,oui
+309,cas,jamais,non,61,64,172,21.63331604,non,oui
+310,cas,jamais,non,57,55,168,19.48696136,non,oui
+311,cas,jamais,non,83,63,163,23.7118454,non,oui
+312,cas,jamais,non,90,84,156,34.51676559,non,oui
+313,cas,jamais,non,78,48,153,20.50493431,oui,non
+314,cas,jamais,non,53,87,170,16.35931015,oui,non
+358,cas,oui,non,46,107,165,39.30211258,non,non
+359,cas,oui,non,49,36,162,13.71742153,non,non
+360,cas,oui,non,28,92,167,32.98791504,non,non
+361,cas,oui,non,36,44,164,16.35931015,non,non
+362,cas,oui,non,47,100,158,16.35931015,non,non
+363,cas,oui,non,60,58,169,20.3074131,non,oui
+364,cas,oui,non,69,78,159,30.85321045,non,oui
+365,cas,oui,non,64,76,164,28.25699043,non,oui
+366,cas,oui,non,59,85,162,32.38835526,non,oui
+367,cas,oui,non,58,93,155,38.70967865,non,oui
+368,cas,oui,non,73,66,157,26.77593422,non,oui
+369,cas,oui,non,75,59,171,20.17714882,non,oui
+370,cas,oui,non,60,86,184,25.40170097,non,oui
+371,cas,oui,non,65,51,165,18.73278236,non,oui
+372,cas,oui,non,66,68,147,31.46837044,non,oui
+373,cas,oui,non,49,51,152,22.07410049,non,oui
+374,cas,oui,non,36,124,170,42.90657425,oui,non
+375,cas,oui,non,55,109,162,41.53330231,oui,non
+376,cas,oui,non,47,45,183,13.43724823,oui,oui
+377,cas,oui,non,46,96,172,32.44997406,oui,oui
+127,temoin,jamais,fumeuse,45,44,173,14.70145988,non,non
+128,temoin,jamais,fumeuse,38,87,167,31.19509506,non,non
+129,temoin,jamais,fumeuse,42,49,162,18.67093468,non,non
+130,temoin,jamais,fumeuse,52,56,170,19.37716293,non,non
+131,temoin,jamais,fumeuse,51,38,173,12.69671535,non,non
+132,temoin,jamais,fumeuse,40,60,160,23.4375,non,non
+133,temoin,jamais,fumeuse,42,71,175,23.18367386,non,non
+134,temoin,jamais,fumeuse,44,54,172,18.25310898,non,non
+135,temoin,jamais,fumeuse,58,44,164,16.35931015,non,non
+136,temoin,jamais,fumeuse,30,56,162,21.33821106,non,non
+137,temoin,jamais,fumeuse,66,57,168,20.19557762,non,non
+138,temoin,jamais,fumeuse,40,44,172,14.87290382,non,non
+139,temoin,jamais,fumeuse,36,80,155,33.29864883,non,non
+140,temoin,jamais,fumeuse,59,72,164,26.76977921,non,non
+141,temoin,jamais,fumeuse,43,99,160,38.671875,non,non
+142,temoin,jamais,fumeuse,42,62,172,20.95727348,non,non
+143,temoin,jamais,fumeuse,57,49,162,18.67093468,non,non
+144,temoin,jamais,fumeuse,29,71,165,26.07897186,non,non
+145,temoin,jamais,fumeuse,43,63,168,22.3214283,non,non
+146,temoin,jamais,fumeuse,72,68,170,23.52941132,non,non
+147,temoin,jamais,fumeuse,51,54,176,17.43285179,non,non
+148,temoin,jamais,fumeuse,41,106,170,36.67819977,non,non
+149,temoin,jamais,fumeuse,61,89,181,27.16644859,non,non
+150,temoin,jamais,fumeuse,39,40,167,14.34257221,non,non
+151,temoin,jamais,fumeuse,71,63,170,21.79930878,non,non
+152,temoin,jamais,fumeuse,50,45,171,15.38935089,non,non
+153,temoin,jamais,fumeuse,54,70,167,25.09950066,non,non
+154,temoin,jamais,fumeuse,52,55,169,19.25702858,non,non
+155,temoin,jamais,fumeuse,37,45,176,14.52737617,non,non
+156,temoin,jamais,fumeuse,26,49,171,16.7572937,non,non
+157,temoin,jamais,fumeuse,31,58,169,20.3074131,non,non
+158,temoin,jamais,fumeuse,56,54,165,19.83471107,non,non
+159,temoin,jamais,fumeuse,17,48,169,16.80613518,non,non
+160,temoin,jamais,fumeuse,56,57,153,24.34960938,non,non
+161,temoin,jamais,fumeuse,41,48,162,18.2898941,non,non
+162,temoin,jamais,fumeuse,28,41,154,17.28790665,non,non
+163,temoin,jamais,fumeuse,43,80,170,27.68166161,non,non
+164,temoin,jamais,fumeuse,23,59,170,20.41522408,non,non
+165,temoin,jamais,fumeuse,43,64,159,25.31545448,non,non
+166,temoin,jamais,fumeuse,55,46,163,17.31340981,non,non
+167,temoin,jamais,fumeuse,47,65,166,23.58832932,non,oui
+168,temoin,jamais,fumeuse,52,67,178,21.14632034,non,oui
+169,temoin,jamais,fumeuse,63,50,174,16.51473045,non,oui
+170,temoin,jamais,fumeuse,48,66,158,26.4380703,non,oui
+171,temoin,jamais,fumeuse,61,73,165,26.813591,non,oui
+172,temoin,jamais,fumeuse,62,48,169,16.80613518,non,oui
+173,temoin,jamais,fumeuse,38,42,157,17.03923035,non,oui
+174,temoin,jamais,fumeuse,58,45,162,17.1467762,non,oui
+175,temoin,jamais,fumeuse,56,95,168,33.65929794,oui,non
+176,temoin,jamais,fumeuse,53,71,172,23.99945831,oui,non
+177,temoin,jamais,fumeuse,49,90,158,36.05191422,oui,non
+178,temoin,jamais,fumeuse,52,116,158,46.46691132,oui,non
+179,temoin,jamais,fumeuse,41,67,168,23.73866272,oui,oui
+268,temoin,oui,fumeuse,25,50,167,17.92821503,non,non
+269,temoin,oui,fumeuse,28,102,168,36.13945389,non,non
+270,temoin,oui,fumeuse,53,54,165,19.83471107,non,non
+271,temoin,oui,fumeuse,19,40,160,15.625,non,non
+272,temoin,oui,fumeuse,25,40,170,13.8408308,non,non
+273,temoin,oui,fumeuse,42,50,156,20.54569435,non,non
+274,temoin,oui,fumeuse,38,51,161,19.67516708,non,non
+275,temoin,oui,fumeuse,19,55,172,18.59113121,non,non
+276,temoin,oui,fumeuse,26,73,166,26.49150848,non,non
+277,temoin,oui,fumeuse,45,51,158,20.42941856,non,non
+278,temoin,oui,fumeuse,36,58,168,20.5498867,non,non
+279,temoin,oui,fumeuse,28,41,166,14.87879181,non,non
+280,temoin,oui,fumeuse,40,51,166,18.50776672,non,non
+281,temoin,oui,fumeuse,20,62,178,19.5682354,non,non
+282,temoin,oui,fumeuse,26,45,156,18.49112511,non,non
+283,temoin,oui,fumeuse,29,56,155,23.30905342,non,non
+284,temoin,oui,fumeuse,42,64,150,28.44444466,non,non
+285,temoin,oui,fumeuse,22,79,176,25.50361633,non,oui
+286,temoin,oui,fumeuse,47,43,169,15.05549526,non,oui
+287,temoin,oui,fumeuse,65,69,169,24.15881729,non,oui
+288,temoin,oui,fumeuse,28,53,176,17.11002159,oui,non
+289,temoin,oui,fumeuse,41,74,169,25.90945625,oui,non
+315,cas,jamais,fumeuse,40,81,168,28.69898033,non,non
+316,cas,jamais,fumeuse,61,68,163,25.59373665,non,non
+317,cas,jamais,fumeuse,52,70,158,28.04037857,non,non
+318,cas,jamais,fumeuse,40,93,163,35.00320053,non,non
+319,cas,jamais,fumeuse,48,52,161,20.06095505,non,non
+320,cas,jamais,fumeuse,78,50,152,21.6412735,non,non
+321,cas,jamais,fumeuse,29,63,167,22.58955193,non,non
+322,cas,jamais,fumeuse,27,55,172,18.59113121,non,non
+323,cas,jamais,fumeuse,52,89,174,29.39622116,non,non
+324,cas,jamais,fumeuse,65,75,174,24.77209663,non,oui
+325,cas,jamais,fumeuse,41,106,177,33.83446503,non,oui
+326,cas,jamais,fumeuse,51,65,168,23.03004456,non,oui
+327,cas,jamais,fumeuse,43,60,183,17.91633034,non,oui
+328,cas,jamais,fumeuse,83,59,179,18.413908,non,oui
+329,cas,jamais,fumeuse,76,87,166,31.57207108,non,oui
+330,cas,jamais,fumeuse,40,85,168,30.11621284,non,oui
+331,cas,jamais,fumeuse,30,64,149,28.82752991,oui,non
+332,cas,jamais,fumeuse,67,82,158,32.84730148,oui,non
+333,cas,jamais,fumeuse,38,62,161,23.91883087,oui,oui
+378,cas,oui,fumeuse,42,61,168,21.61281204,non,non
+379,cas,oui,fumeuse,26,70,162,26.67276382,non,non
+380,cas,oui,fumeuse,44,43,165,15.79430676,non,non
+381,cas,oui,fumeuse,41,45,154,18.97453117,non,non
+382,cas,oui,fumeuse,47,48,171,16.415308,non,non
+383,cas,oui,fumeuse,34,67,154,28.25096893,non,non
+384,cas,oui,fumeuse,60,78,174,25.76298141,non,non
+385,cas,oui,fumeuse,29,80,166,29.03178978,non,non
+386,cas,oui,fumeuse,49,48,151,21.05170822,non,non
+387,cas,oui,fumeuse,43,48,160,18.75,non,non
+388,cas,oui,fumeuse,35,51,173,17.04032898,non,non
+389,cas,oui,fumeuse,37,52,163,19.57168198,non,non
+390,cas,oui,fumeuse,48,84,155,34.96358109,non,non
+391,cas,oui,fumeuse,21,54,171,18.46722031,non,non
+392,cas,oui,fumeuse,36,80,166,29.03178978,non,non
+393,cas,oui,fumeuse,49,55,169,19.25702858,non,non
+394,cas,oui,fumeuse,25,54,159,21.35991478,non,non
+395,cas,oui,fumeuse,29,71,157,28.80441475,non,non
+396,cas,oui,fumeuse,46,44,163,16.56065369,non,non
+397,cas,oui,fumeuse,53,58,169,20.3074131,non,non
+398,cas,oui,fumeuse,46,83,164,30.8596077,non,oui
+399,cas,oui,fumeuse,60,60,168,21.25850296,non,oui
+400,cas,oui,fumeuse,45,79,173,26.39580345,non,oui
+401,cas,oui,fumeuse,44,80,160,31.25,non,oui
+402,cas,oui,fumeuse,29,71,174,23.4509182,non,oui
+403,cas,oui,fumeuse,66,43,164,15.98750782,non,oui
+404,cas,oui,fumeuse,38,63,177,20.10916328,non,oui
+405,cas,oui,fumeuse,36,93,168,32.95067978,non,oui
+406,cas,oui,fumeuse,71,78,164,29.00059509,non,oui
+407,cas,oui,fumeuse,60,88,164,32.7186203,non,oui
+408,cas,oui,fumeuse,42,61,171,20.86112022,non,oui
+409,cas,oui,fumeuse,28,101,150,44.88888931,non,oui
+410,cas,oui,fumeuse,58,75,171,25.64891815,non,oui
+411,cas,oui,fumeuse,41,81,177,25.85463905,non,oui
+412,cas,oui,fumeuse,66,74,173,24.72518349,oui,oui
+413,cas,oui,fumeuse,29,45,172,15.2109251,oui,oui
+414,cas,oui,fumeuse,37,87,160,15.2109251,oui,oui
+415,cas,oui,fumeuse,32,61,159,24.12879181,oui,oui
+416,cas,oui,fumeuse,46,67,176,21.62964821,oui,oui
+417,cas,oui,fumeuse,43,95,173,31.74178886,oui,oui
+418,cas,oui,fumeuse,56,68,175,22.20408249,oui,oui
+180,temoin,jamais,ancienne fumeuse,38,63,174,20.80856133,non,non
+181,temoin,jamais,ancienne fumeuse,53,81,167,29.0437088,non,non
+182,temoin,jamais,ancienne fumeuse,42,59,176,19.0470047,non,non
+183,temoin,jamais,ancienne fumeuse,16,64,168,22.67573738,non,non
+184,temoin,jamais,ancienne fumeuse,37,53,178,16.72768593,non,non
+185,temoin,jamais,ancienne fumeuse,37,104,163,39.14336395,non,non
+186,temoin,jamais,ancienne fumeuse,39,66,145,31.39120102,non,non
+187,temoin,jamais,ancienne fumeuse,28,60,175,19.59183693,non,non
+188,temoin,jamais,ancienne fumeuse,52,65,170,22.49135017,non,non
+189,temoin,jamais,ancienne fumeuse,44,61,170,21.10726738,non,non
+190,temoin,jamais,ancienne fumeuse,37,82,168,29.05328751,non,non
+191,temoin,jamais,ancienne fumeuse,26,101,175,29.05328751,non,non
+192,temoin,jamais,ancienne fumeuse,42,58,174,19.15708733,non,non
+193,temoin,jamais,ancienne fumeuse,27,95,155,39.54214478,non,non
+194,temoin,jamais,ancienne fumeuse,32,70,171,23.93898964,non,non
+195,temoin,jamais,ancienne fumeuse,33,48,155,19.97918892,non,non
+196,temoin,jamais,ancienne fumeuse,27,85,166,30.84627724,non,non
+197,temoin,jamais,ancienne fumeuse,31,52,162,19.81405258,non,non
+198,temoin,jamais,ancienne fumeuse,25,61,167,21.87242317,non,non
+199,temoin,jamais,ancienne fumeuse,27,101,165,37.09825516,non,non
+200,temoin,jamais,ancienne fumeuse,42,65,168,23.03004456,non,non
+201,temoin,jamais,ancienne fumeuse,50,65,163,24.46460152,non,non
+202,temoin,jamais,ancienne fumeuse,28,62,144,29.89969063,non,non
+203,temoin,jamais,ancienne fumeuse,23,56,163,21.07719612,non,non
+204,temoin,jamais,ancienne fumeuse,48,50,166,18.14486885,non,oui
+205,temoin,jamais,ancienne fumeuse,48,69,152,29.86495781,non,oui
+206,temoin,jamais,ancienne fumeuse,43,62,172,20.95727348,non,oui
+207,temoin,jamais,ancienne fumeuse,31,113,168,40.03684998,non,oui
+208,temoin,jamais,ancienne fumeuse,53,102,162,38.86602783,non,oui
+209,temoin,jamais,ancienne fumeuse,46,78,158,31.24499321,oui,non
+210,temoin,jamais,ancienne fumeuse,44,54,167,19.36247253,oui,non
+211,temoin,jamais,ancienne fumeuse,22,78,168,27.63605499,oui,non
+212,temoin,jamais,ancienne fumeuse,31,60,173,20.0474453,oui,oui
+290,temoin,oui,ancienne fumeuse,20,94,156,38.62590408,non,non
+291,temoin,oui,ancienne fumeuse,20,45,164,16.73111153,non,non
+292,temoin,oui,ancienne fumeuse,33,66,180,20.37037086,non,non
+293,temoin,oui,ancienne fumeuse,25,51,169,17.85651779,non,non
+294,temoin,oui,ancienne fumeuse,29,40,162,15.24157906,non,non
+295,temoin,oui,ancienne fumeuse,15,45,170,15.5709343,non,non
+296,temoin,oui,ancienne fumeuse,19,66,170,22.83736992,non,non
+297,temoin,oui,ancienne fumeuse,21,64,163,24.0882225,non,non
+298,temoin,oui,ancienne fumeuse,41,45,165,16.52892494,non,non
+299,temoin,oui,ancienne fumeuse,22,78,167,27.96801567,non,non
+300,temoin,oui,ancienne fumeuse,27,83,168,29.40759659,oui,non
+334,cas,oui,ancienne fumeuse,42,80,154,33.73250198,non,non
+335,cas,oui,ancienne fumeuse,52,128,164,47.59072113,non,non
+336,cas,oui,ancienne fumeuse,39,89,178,28.08988762,non,non
+337,cas,oui,ancienne fumeuse,47,46,169,16.10587883,non,non
+338,cas,oui,ancienne fumeuse,33,88,161,33.94930649,non,non
+339,cas,oui,ancienne fumeuse,37,89,167,31.91222382,non,non
+340,cas,oui,ancienne fumeuse,45,84,159,33.22653198,non,non
+341,cas,oui,ancienne fumeuse,54,70,161,27.00513077,non,oui
+342,cas,oui,ancienne fumeuse,34,75,171,25.64891815,non,oui
+343,cas,oui,ancienne fumeuse,75,80,166,29.03178978,non,oui
+344,cas,jamais,ancienne fumeuse,53,105,175,34.2857132,non,oui
+345,cas,jamais,ancienne fumeuse,18,72,174,23.78121376,non,oui
+346,cas,jamais,ancienne fumeuse,41,99,163,37.26147079,oui,non
+347,cas,jamais,ancienne fumeuse,52,72,157,29.21010971,oui,oui
+348,cas,oui,ancienne fumeuse,55,63,162,24.00548744,non,non
+349,cas,oui,ancienne fumeuse,53,41,157,16.63353539,non,non
+350,cas,oui,ancienne fumeuse,39,72,170,24.91349411,non,non
+351,cas,oui,ancienne fumeuse,42,69,147,31.93113899,non,non
+352,cas,oui,ancienne fumeuse,42,45,162,17.1467762,non,non
+353,cas,oui,ancienne fumeuse,56,84,161,32.40615845,non,non
+354,cas,oui,ancienne fumeuse,49,49,172,16.56300735,non,non
+355,cas,oui,ancienne fumeuse,52,77,155,32.04994965,non,non
+356,cas,oui,ancienne fumeuse,34,62,164,23.051754,non,non
+357,cas,oui,ancienne fumeuse,24,73,175,23.83673477,non,non
+419,cas,oui,ancienne fumeuse,49,63,172,21.29529381,non,non
+420,cas,oui,ancienne fumeuse,50,57,162,21.71924973,non,non
+421,cas,oui,ancienne fumeuse,27,86,160,33.59375,non,non
+422,cas,oui,ancienne fumeuse,31,59,163,22.20633125,non,non
+423,cas,oui,ancienne fumeuse,28,58,167,20.79673004,non,non
+424,cas,oui,ancienne fumeuse,40,69,165,25.34435272,non,non
+425,cas,oui,ancienne fumeuse,26,64,181,19.53542328,non,non
+426,cas,oui,ancienne fumeuse,33,87,164,24.99890327,non,non
+427,cas,oui,ancienne fumeuse,23,57,151,24.99890327,non,non
+428,cas,oui,ancienne fumeuse,40,81,176,26.14927673,non,non
+429,cas,oui,ancienne fumeuse,35,61,156,25.06574631,non,non
+430,cas,oui,ancienne fumeuse,31,69,173,23.05456161,non,non
+431,cas,oui,ancienne fumeuse,28,46,159,18.19548225,non,non
+432,cas,oui,ancienne fumeuse,26,45,167,16.13539314,non,non
+433,cas,oui,ancienne fumeuse,31,76,168,26.92743683,non,non
+434,cas,oui,ancienne fumeuse,44,102,170,35.29411697,non,oui
+435,cas,oui,ancienne fumeuse,63,71,164,26.39797783,non,oui
+436,cas,oui,ancienne fumeuse,59,91,156,37.39316177,non,oui
+437,cas,oui,ancienne fumeuse,46,104,173,34.74890518,non,oui
+438,cas,oui,ancienne fumeuse,38,79,163,29.73390007,non,oui
+439,cas,oui,ancienne fumeuse,51,93,155,38.70967865,non,oui
+440,cas,oui,ancienne fumeuse,60,118,164,43.87269592,non,oui
+441,cas,oui,ancienne fumeuse,30,68,142,33.72346878,non,oui
+442,cas,oui,ancienne fumeuse,44,111,161,42.82242203,non,oui
+443,cas,oui,ancienne fumeuse,47,79,176,25.50361633,non,oui
+444,cas,oui,ancienne fumeuse,32,67,146,31.43178749,non,oui
+445,cas,oui,ancienne fumeuse,31,67,162,25.52964401,oui,non
+446,cas,oui,ancienne fumeuse,30,80,154,33.73250198,oui,non
+447,cas,oui,ancienne fumeuse,42,67,167,24.02380943,oui,oui
+448,cas,oui,ancienne fumeuse,35,52,172,17.57706833,oui,oui
